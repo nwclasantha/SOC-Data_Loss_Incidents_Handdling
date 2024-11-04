@@ -1,6 +1,6 @@
 ### Article: Comprehensive Incident Response Workflow for Data Loss Incidents
 
-![image](https://github.com/user-attachments/assets/7eb7a03c-82b8-4293-86eb-7e28a6aa145d)
+![Tackling-the-worlds-biggest-security-threat](https://github.com/user-attachments/assets/3c70ebb5-2d1e-4896-8dbc-0bf55e0bf1f5)
 
 ---
 
